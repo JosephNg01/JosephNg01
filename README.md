@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JosephNg01
 - 👀 I’m interested in Financial Mathematics and Computer Science
 - 🌱 Graduated in Applied Maths at Ecole Polytechnique, l'X (France)
+- Master's degree in quantitative finance at Université Paris Cité (Ex. DEA Laure Elie)
 - 💞️ I’m looking to collaborate on projects related to Financial Engineering (Options pricing, derivatives, Monte Carlo simulations, Stochastic Models)
 - 📫 How to reach me => My e-mail is : josephngueponwouo01@gmail.com
 
