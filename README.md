@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephNg01
 - 👀 I’m interested in Financial Mathematics and Computer Science
-- 🌱 I’m currently learning Financial Mathematics at Ecole Polytechnique, l'X (France)
+- 🌱 Graduated in Applied Maths at Ecole Polytechnique, l'X (France)
 - 💞️ I’m looking to collaborate on projects related to Financial Engineering (Options pricing, derivatives, Monte Carlo simulations, Stochastic Models)
 - 📫 How to reach me => My e-mail is : josephngueponwouo01@gmail.com
 
